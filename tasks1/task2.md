@@ -1,7 +1,3 @@
-I'll check how the sorted structures insert and iterate, then build Task 2 on top of the Task 1 code and test it.
-
-I built Task 2 on top of the Task 1 code. It compiles, and 13 new checks pass (Task 1's checks still pass too).
-
 # Task 2: Hiding messages
 
 ## What it is
