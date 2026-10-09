@@ -1,7 +1,3 @@
-Before writing this up I'll compile the code against the real project so what I give you actually builds.
-
-I compiled the code below against your project and ran 15 checks on it (duplicates, unknown users and messages, removing, re-reporting). They all pass.
-
 # Task 1: Reporting
 
 ## What it is
